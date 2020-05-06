@@ -1,0 +1,12 @@
+var flight;
+var time;
+var passenger;
+var total;
+var price;
+var name;
+var email;
+var phoneNumber;
+var child;
+var adult;
+var lapChild;
+var date;
